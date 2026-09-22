@@ -38,22 +38,34 @@
 //  }
 
 // Задача Б
-int age = 16;
+// int age = 16;
 
- switch (age) {
-     case < 0:
-         Console.WriteLine("Ошибка");
-         break;
-     case >= 0 and <= 6:
-         Console.WriteLine("Ребёнок");
-         break;
-     case >= 7 and <= 17:
-         Console.WriteLine("Подросток");
-         break;
-     case >= 18 and <= 64:
-         Console.WriteLine("Взрослый");
-         break;
-     case >= 65:
-         Console.WriteLine("Пенсионер");
-         break;
- }
+//  switch (age) {
+//      case < 0:
+//          Console.WriteLine("Ошибка");
+//          break;
+//      case >= 0 and <= 6:
+//          Console.WriteLine("Ребёнок");
+//          break;
+//      case >= 7 and <= 17:
+//          Console.WriteLine("Подросток");
+//          break;
+//      case >= 18 and <= 64:
+//          Console.WriteLine("Взрослый");
+//          break;
+//      case >= 65:
+//          Console.WriteLine("Пенсионер");
+//          break;
+//  }
+
+// Задача В
+// int dayNumber = 4;
+
+// switch (dayNumber) {
+//     case >= 1 and <= 5:
+//         Console.WriteLine("Будний");
+//         break;
+//     case 6 or 7:
+//         Console.WriteLine("Выходной");
+//         break;
+// }
